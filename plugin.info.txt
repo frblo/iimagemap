@@ -1,0 +1,7 @@
+base   iimagemap
+author Fredrik Blomqvist
+email  scanmar333@gmail.com
+date   2025-05-31
+name   iimagemap plugin
+desc   Interactive Image Maps With Markers
+url    https://github.com/frblo/iimagemap
